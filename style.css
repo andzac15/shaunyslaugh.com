@@ -1,0 +1,16 @@
+p{
+  width: 48%;
+  float: left;
+  padding: 1%;
+}
+
+
+
+
+.container{
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;  
+}
